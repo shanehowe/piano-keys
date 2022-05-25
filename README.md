@@ -13,6 +13,6 @@ Created with:
 
 # Usage 
 
- - Navigate to: 
+ - Navigate to: https://shanehowe.github.io/piano-keys/
  - Click the keys in the sequence provided under the piano
  - Click button provided to move along to following sequence and repeat until it resets
